@@ -15,7 +15,7 @@ LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
 
 // DHT11 sensor configuration
-#define DHTPIN 8              // Pin where the DHT11 data pin is connected
+#define DHTPIN 7              // Pin where the DHT11 data pin is connected
 #define DHTTYPE DHT11         // Specifies the sensor model (DHT11)
 
 
